@@ -12,10 +12,8 @@ Program generating raster plots from neural spike train
 ## Example
 Raster plot 1
 ![alt text](https://github.com/kiyunleeeee/Raster-plot-from-neural-spike-train/blob/main/raster1.jpg)
-
 Raster plot 2
 ![alt text](https://github.com/kiyunleeeee/Raster-plot-from-neural-spike-train/blob/main/raster2.jpg)
-
 Raster plot 3
 ![alt text](https://github.com/kiyunleeeee/Raster-plot-from-neural-spike-train/blob/main/raster3.jpg)
 
